@@ -22,7 +22,7 @@
     "@vue/cli-service": "~4.5.13",
     "@vue/test-utils": "^1.2.0",
     "node-sass": "^6.0.0",
-    "sass-loader": "^10",
+    "sass-loader": "^13",
     "vue-template-compiler": "^2.6.11"
   }
 }
